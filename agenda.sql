@@ -12,5 +12,5 @@ INSERT INTO personas(nombre, email) VALUES
     ("Dejah", "dejah@email.com"),
     ("Jonh", "jonh@email.com"),
     ("Anton", "antonjt@gmail.com");
-    
+
 SELECT * FROM personas;
